@@ -18,7 +18,7 @@ All parameters are required.
 |--|--|--|
 |filename|fjord.jpg|An image name including extension |
 |width|200|Width after your image procesed|
-|height|400||Height after your image processed|
+|height|400|Height after your image processed|
 
 ## Example
 `localhost:3000/api/images?filename=fjord.jpg&width=200&height=400`
