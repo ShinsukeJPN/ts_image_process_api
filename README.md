@@ -15,7 +15,7 @@ This is an image processing API. You can resize width and height of your image.
 All parameters are required.
 
 |Attribute|Example|Note|
-|--|--|--|--|
+|--|--|--|
 |filename|fjord.jpg|An image name including extension |
 |width|200|Width after your image procesed|
 |height|400||Height after your image processed|
