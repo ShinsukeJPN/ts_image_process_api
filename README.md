@@ -11,6 +11,11 @@ This is an image processing API. You can resize width and height of your image.
 ## Endpoint
 `GET /api/images`
 
+## Scripts
+- Run `npm run build` to build the codes.
+- Run `npm run start` to start the server and then you can access to `localhost:3000`
+- Run `npm run test` to test the codes.
+
 ## Parameters
 All parameters are required.
 
